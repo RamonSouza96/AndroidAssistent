@@ -10,6 +10,9 @@ Gerencie aplicativos, instale APKs, execute comandos shell, capture screenshots 
 
 ---
 
+<img width="1202" height="832" alt="thumb (1)" src="https://github.com/user-attachments/assets/6d7a06e9-03cb-4139-acbb-7d58de548b8c" />
+<img width="1202" height="832" alt="thumb (2)" src="https://github.com/user-attachments/assets/7d024b57-6fc8-4c97-852e-4ab8cbd143c5" />
+
 ## Funcionalidades
 
 ### Gerenciamento de Aplicativos
