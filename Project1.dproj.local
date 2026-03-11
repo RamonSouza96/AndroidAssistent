@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2025/02/19 22:32:02.000.158,=C:\Users\DevAr\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/09 11:16:51.000.210,=C:\Users\DevAr\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/09 11:18:15.000.241,=C:\Users\DevAr\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/15 17:35:14.000.591,=C:\Users\DevAr\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/15 17:39:08.000.789,F:\PROJETOS\FMX\Android\AndroidAssistent\Unit1.fmx=C:\Users\DevAr\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2025/07/15 17:39:08.000.789,F:\PROJETOS\FMX\Android\AndroidAssistent\Unit1.pas=C:\Users\DevAr\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2025/07/15 17:39:11.000.442,F:\PROJETOS\FMX\Android\AndroidAssistent\Project1.dproj=C:\Users\DevAr\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2025/07/15 18:07:42.000.599,F:\PROJETOS\FMX\Android\AndroidAssistent\MainForm.pas=F:\PROJETOS\FMX\Android\AndroidAssistent\Unit1.pas</Transaction>
+    <Transaction>2025/07/15 18:07:42.000.599,F:\PROJETOS\FMX\Android\AndroidAssistent\MainForm.fmx=F:\PROJETOS\FMX\Android\AndroidAssistent\Unit1.fmx</Transaction>
+    <Transaction>2025/07/16 13:09:11.000.293,=F:\PROJETOS\FMX\Android\AndroidAssistent\LogcatManager.pas</Transaction>
+    <Transaction>2025/07/16 13:10:02.000.329,=F:\PROJETOS\FMX\Android\AndroidAssistent\ToolsManager.pas</Transaction>
+    <Transaction>2025/07/16 13:11:01.000.285,=F:\PROJETOS\FMX\Android\AndroidAssistent\APKInstaller.pas</Transaction>
+    <Transaction>2025/07/16 14:53:46.000.611,=F:\PROJETOS\FMX\Android\AndroidAssistent\Unit1.pas</Transaction>
+    <Transaction>2025/07/16 14:54:25.000.208,F:\PROJETOS\FMX\Android\AndroidAssistent\Unit1.pas=F:\PROJETOS\FMX\Android\AndroidAssistent\Main.Settings.pas</Transaction>
+    <Transaction>2025/07/16 15:32:31.000.417,F:\PROJETOS\FMX\Android\AndroidAssistent\APKInstaller.pas=</Transaction>
+    <Transaction>2025/07/16 17:24:40.896,=F:\PROJETOS\FMX\Android\AndroidAssistent\Unit1.pas</Transaction>
+    <Transaction>2025/07/16 17:27:24.944,F:\PROJETOS\FMX\Android\AndroidAssistent\Splash.view.pas=F:\PROJETOS\FMX\Android\AndroidAssistent\Unit1.pas</Transaction>
+    <Transaction>2025/07/16 17:27:24.944,F:\PROJETOS\FMX\Android\AndroidAssistent\Splash.view.fmx=F:\PROJETOS\FMX\Android\AndroidAssistent\Unit1.fmx</Transaction>
+    <Transaction>2025/07/16 17:37:25.864,F:\PROJETOS\FMX\Android\AndroidAssistent\Splash.view.pas=</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile Android64="0058781475" Android="0058781475"/>
+	</ActiveMobileDevice>
+</BorlandProject>
